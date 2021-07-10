@@ -53,3 +53,6 @@ ___
 <a href="https://linedin.com/mwlite/in/imad-najmi-673746200">
 <img src="imgs/linkedin.svg" width="50" alt="Linkedin">
 </a>
+___
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=najmi9)](https://github.com/anuraghazra/github-readme-stats)
+
