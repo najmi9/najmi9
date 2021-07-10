@@ -15,8 +15,7 @@ ___
 
 ___
 ## Tools & Languages
-<img src="imgs/sf.svg" width="40" alt="Symfony 5">
-<img src="imgs/javascript.svg" width="40" alt="JS ECMA S6">
+<img src="imgs/sf.svg" width="40" alt="Symfony 5"><img src="imgs/javascript.svg" width="40" alt="JS ECMA S6">
 <img src="imgs/php.svg" width="56" alt="PHP7+">
 <img src="imgs/twig.svg" width="56" alt="+Twig">
 <img src="imgs/bootstrap-4.svg" width="40" alt="Bootstrap 5">
