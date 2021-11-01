@@ -1,6 +1,7 @@
 
 ## Hi, I am IMAD Najmi, PHP Symfony Developer.
 
+https://img.shields.io/static/v1?label=label&message=message&color=red
 * I was born in 22-03-1999
 * I am Master's student in High Energy Physics and Computer Science.
 * I speack Arabic, Frensh and English
