@@ -59,9 +59,18 @@
 <img src="imgs/linkedin.svg" width="50" alt="Linkedin">
 </a>
 
+## Blogs
 
-
-
+1. <a href="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/ssh.md">What is SSH, How it's work, How we can use it and How to secure a open SSH connection?</a>
+2. <a href="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/weasyprint.md">How yo use WeasyPrint in Symfony 5?</a>
+3. <a href="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/mercure_symfony.md">Mercure Protocol With Symfony And Api Platform</a>
+4. <a href="https://github.com/najmi9/imad-najmi/edit/master/src/components/blog/posts/react_blog.md">How to Create a Technical Blog by using React, Markdown and Syntax Highlighter Code ?</a>
+5. <a href="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/linux-commands.md">Usefull Linux Commands For Web Devs.</a>
+6. <a src="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/algolia.md">Implementation Of Algolia Engine With Symfony 5.</a>
+7. <a src="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/messenger_symfony.md">Symfony Messenger: Supervisor Configuration In Production Enviroment</a>
+8. <a src="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/doctrine_cache.md">Doctrine ORM: Integration Of Second Level Cache With Symfony.</a>
+9. <a src="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/react_symfony.md">How to create mrdern website with Symfony Api-Platform and React JS?</a>
+10. <a src="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/fc_automate_post.md">Create posts automatically on Facebook with Selenium and Python</a>
 ## My joke today!!
 
 
