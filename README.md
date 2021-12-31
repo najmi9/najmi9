@@ -11,7 +11,7 @@
 * I study at University of Cady Ayyad at Marrakech in Morocco
 * I leave in Morroco Marakech Chichaoua
 * My Email is imadnajmi9@gmail.com
-* Call me at +212 07 62 95 17 42
+* Call me at +212 06 89 30 66 69
 * I love web dev and technologies
 
 ## Status
