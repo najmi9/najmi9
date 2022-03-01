@@ -53,12 +53,6 @@
 9. <a href="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/react_symfony.md">How to create mrdern website with Symfony Api-Platform and React JS?</a>
 10. <a href="https://github.com/najmi9/imad-najmi/blob/master/src/components/blog/posts/fc_automate_post.md">Create posts automatically on Facebook with Selenium and Python</a>
 
-# Works link
-- <a href="http://beta.gvetsoft.com/en"><img src="http://beta.gvetsoft.com/favicon.ico"/> http://beta.gvetsoft.com</a>
-- <a href="https://nineplanets.org/tools/acceleration-calculator/"><img src="https://nineplanets.org/static/includes/images/logo.png" width="20" height="20"/> https://nineplanets.org/tools/acceleration-calculator/</a>
-- <a href="https://shop-api-react.herokuapp.com/api/docs"> <img src="https://shop-api-react.herokuapp.com/bundles/apiplatform/logo-header.svg" width="20" height="20"/> https://shop-api-react.herokuapp.com/api/docs </a>
-
-
 ## Follow me:
 <a href="https://www.youtube.com/channel/UCLN-GyaZh0079KY7uzqEoSw" alt="Youtube">
 <img src="imgs/ytb.svg" width="50" alt="Webpack Encore">
