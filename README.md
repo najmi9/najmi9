@@ -13,7 +13,7 @@
 * My Email is imadnajmi9@gmail.com
 * Call me at +212 06 89 30 66 69
 * I love web dev and technologies
-* Find me around the web on [najmidev.tech](https:/najmidev.tech)
+* Find me around the web on [najmidev.tech](https://najmidev.tech)
 
 ## Status
 
