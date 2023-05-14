@@ -43,6 +43,8 @@
 
 ## Blogs
 
+[![Alt text](https://img.youtube.com/vi/RcfVBRhZHVs/0.jpg)](https://www.youtube.com/watch?v=RcfVBRhZHVs)
+
 1. <a href="https://www.najmidev.tech/blog/setup-secure-ssh-connection">What is SSH, How it's work, How we can use it and How to secure a open SSH connection?</a>
 2. <a href="https://www.najmidev.tech/blog/symfony-weasyprint-php-generate-pdf">How yo use WeasyPrint in Symfony 5?</a>
 3. <a href="https://www.najmidev.tech/blog/mercure-symfony-blog">Mercure Protocol With Symfony And Api Platform</a>
@@ -56,19 +58,10 @@
 
 ## Follow me:
 <a href="https://www.youtube.com/channel/UCLN-GyaZh0079KY7uzqEoSw" alt="Youtube">
-<img src="imgs/ytb.svg" width="50" alt="Webpack Encore">
+<img src="imgs/ytb.svg" width="50" alt="Youtube">
 </a>
 
-<a href="https://www.instagram.com/imadnjma/" alt="Youtube">
-<img src="imgs/insta.svg" width="50" alt="Webpack Encore">
-</a>
-
-
-<a href="https://facebook.com/imad.najmi.cr7">
-<img src="imgs/fc.svg" width="50" alt="Facebook">
-</a>
-
-<a href="https://linedin.com/mwlite/in/imad-najmi-673746200">
+<a href="https://linkedin.com/mwlite/in/imad-najmi-673746200">
 <img src="imgs/linkedin.svg" width="50" alt="Linkedin">
 </a>
 
