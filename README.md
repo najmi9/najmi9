@@ -10,10 +10,10 @@
 * I speack Arabic, Frensh and English
 * I study at University of Cady Ayyad at Marrakech in Morocco
 * I leave in Morroco Marakech Chichaoua
-* My Email is imadnajmi9@gmail.com
-* Call me at +212 06 89 30 66 69
+* My Email is imad@najminet.com
+* Call me at +212 06 16 89 99 26
 * I love web dev and technologies
-* Find me around the web on [najmidev.tech](https://najmidev.tech)
+* Find me around the web on [imadnajmi.com](https://imadnajmi.com)
 
 ## Status
 
